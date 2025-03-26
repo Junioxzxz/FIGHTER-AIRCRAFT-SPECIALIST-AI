@@ -22,8 +22,8 @@ A specialized AI assistant that provides comprehensive information about fighter
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/fighter-aircraft-specialist-ai.git
-cd fighter-aircraft-specialist-ai
+git clone https://github.com/Junioxzxz/FIGHTER-AIRCRAFT-SPECIALIST-AI.git
+cd fFIGHTER-AIRCRAFT-SPECIALIST-AI
 ```
 
 2. Create a virtual environment:
